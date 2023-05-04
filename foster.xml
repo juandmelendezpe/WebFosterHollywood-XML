@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="estilo.xsl" type="text/xsl"?>
+<carta>
+    <categoria nombre="ENTRANTES">
+        <plato>
+            <nombre>BACON &amp; CHEESE FRIES</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/bacon-cheese-fries.png?itok=usHB3RqY
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>NACHOS SAN FERNANDO</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/nachos-san-fernando.png?itok=7UhPZcjn
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>BBQ &amp; RANCH CHICKEN FLATBREAD</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/bbq-ranch-chicken-flatbread.png?itok=5USgSbGL
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>HOLLYWOOD COMBO</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/hollywood-combo.png?itok=FKoVSt7V
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>FOSTERS CHICKEN POPS</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/fosters-chicken-pops.png?itok=azH1JEZU
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>MAC &amp; CHEESE</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/mac-cheese.png?itok=xMMoix9J
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>GUACAMOLE HECHO EN TU MESA</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/guacamole-hecho-en-tu-mesa.png?itok=NQxMNJGC
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>CHOICE CHICKEN FINGERS</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/choice-chicken-fingers.png?itok=6jl60NB9
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>PULLED SMOKED CHESSE FRIES</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/pulled-smoked-cheese-fries.png?itok=V8MkygZ-
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>FINGERS DE QUESO GRAND CENTRAL</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/finger-de-queso-grand-central.png?itok=UARqptdN
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>AROS DE CEBOLLA</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/aros-de-cebolla.png?itok=PLpH9jbY
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>TEX &amp; CHEESE FRIES</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/tex_cheese_fries.png?itok=WaI114_B
+            </imagen>
+        </plato>
+    </categoria>
+    <categoria nombre="TEX MEX">
+        <plato>
+            <nombre>FAJITAS EL PASO</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/fosters_tex_mex_fajitas_el_paso.png?itok=Iyx9fWM5
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>CHICKEN ENCHILADA</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/chicken_enchilada_2.png?itok=2NFD1K9T
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>BURRITO MONTERREY</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/burrito_monterrey.png?itok=DVMYjt-F
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>SONORA CHICKEN TACOS</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/sonora-chicken-tacos.png?itok=qE0yjVGI
+            </imagen>
+        </plato>
+    </categoria>
+    <categoria nombre="ENSALADAS">
+        <plato>
+            <nombre>CALIFORNIA SALAD</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/california_salad_1000x495.png?itok=3GGWdh0j
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>FOSTER&apos;S CAESAR SALAD</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/fosters_caesar_salad.png?itok=i7LS4ify
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>MEDITERRANEAN SALAD</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/FOSTERS_ENSALADAS_Mediterranean_0.png?itok=gDhWZGMi
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>SANTA MÓNICA</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/santa_monica_salad.png?itok=kPoZbFJ5
+            </imagen>
+        </plato>
+    </categoria>
+    <categoria nombre="CARNE">
+        <plato>
+            <nombre>THE NEWYORKER 325 GRS</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/new_yorker_1000x495_0.png?itok=TrQBrkU3
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>FLANK STEAK 300 GRS</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/flank_steak_1000x495.png?itok=ZWORSLSI
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>SALISBURY STEAKS</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/web_wd_salisbury_steaks_1000x495_px.png?itok=11-M4Lo2
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>BEEF BONE</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/beef-bone.png?itok=O5JFPUxK
+            </imagen>
+        </plato>
+    </categoria>
+    <categoria nombre="COSTILLAS">
+        <plato>
+            <nombre>COSTILLAS IBÉRICAS BLACK LABEL</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/costillas-ibericas-black-label.png?itok=JA-2ShIA
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>NATIONAL STAR RIBS</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/national-ribs-de-cerdo.png?itok=eNTHKISG
+            </imagen>
+        </plato>
+    </categoria>
+    <categoria nombre="POLLO">
+        <plato>
+            <nombre>CAVATAPPI CHICKEN PASTA</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/cavatappi.png?itok=AGL8CzqB
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>TERIYAKI CHICKEN BROCHETTE</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/teriyaki_chicken_brochette_1000x495.png?itok=eTFGsTZU
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>CHICKEN &amp; RICE WOK</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/chicken_rice_wok_2.png?itok=whlwVXV8
+            </imagen>
+        </plato>
+    </categoria>
+    <categoria nombre="SÁNDWICHES">
+        <plato>
+            <nombre>CAESAR SANDWICH</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/caesar-sandwich-ok.png?itok=UND2ZItY
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>SOUTHERN CHICKEN SANDWICH</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/southern-chicken-sandwich-ok.png?itok=lJSl9qfJ
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>PULLED PORK SANDWICH</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/pulled-pork-sandwich.png?itok=GXb3eY8J
+            </imagen>
+        </plato>
+    </categoria>
+    <categoria nombre="HAMBURGUESAS">
+        <plato>
+            <nombre>BLACK LABEL BURGER</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/blb_web.png?itok=X8e08911
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>RACLETTE CHEESE</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/b_raclette_web.png?itok=2eaaIolx
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>ORLEANS BURGER</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/orleans-fh.png?itok=fZGgyJBE
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>FOSTER'S BOURBON CAESAR</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/bourbon_cesar.png?itok=i-lJoJ2H
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>TRUFFLED BURGER</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/truffled-burger.png?itok=d45SPyQB
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>SLOW SMOKED</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/smoked_web.png?itok=sq63YW0E
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>GORGONZOLA NUTS</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/gorgonzola_web.png?itok=T3VsQK_f
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>SWEET PHILADELPHIA</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/sweet_philadelphia_web.png?itok=Q_dY5IWJ
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>TRIBECA AVOCADO</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/tribeca_web.png?itok=9qI-XEOR
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>NORTH CAROLINA PULLED PORK</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/n_c_pulled_pork_web.png?itok=Upy9CW82
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>THE VEGGIE BURGER</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/veggie_web_ultima.png?itok=9Ynt6VSj
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>BBQ EGG BURGER</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/bbq-egg-web-500x248-px.png?itok=SwEkihXS
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>DIRECTOR´S CHOICE VERSIÓN ORIGINAL</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/dc-web-500x248-px.png?itok=EIqE-9yi
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>DIRECTOR’S CHOICE CHICKEN</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/dc-pollo-web-500x248-px.png?itok=tneQTQNv
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>THE BACON BURGER</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/bacon-burger-web-500x248-px.png?itok=dqJ9x_zA
+            </imagen>
+        </plato>
+        <plato>
+            <nombre>THE CHEESE BURGER</nombre>
+            <imagen>
+                https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/cheese-burger-500x248-px.png?itok=anOmjchq
+            </imagen>
+        </plato>
+    </categoria>
+</carta>
