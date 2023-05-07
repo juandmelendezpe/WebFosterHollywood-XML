@@ -68,16 +68,15 @@ header {
 }
 button {
   width: 10%;
-  height: 10%;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 2px;
   background-color: var(--color-fondo-button);
   color: var(--text-color-white);
 }
 button:hover {
   background-color: var(--fondo-button-hover);
   border-radius: 5px;
-}
-.button-1 {
-  height: 80%;
 }
 
 
@@ -103,10 +102,12 @@ h1 {
   height: 20%;
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
 }
 .section_entradas_box {
-  width: 18%;
+  width: 20%;
   border: 1px solid var(--color-fondo-prevision-header);
+  margin: 5px;
 }
 .section_entradas_box img {
   max-width: 90%;
@@ -119,6 +120,8 @@ h1 {
   display: flex;
   justify-content: space-around;
   margin-top: 7%;
+  flex-wrap: wrap;
+
 }
 /*****************section ensaladas****************/
 .section_ensaladas {
@@ -127,6 +130,8 @@ h1 {
   display: flex;
   justify-content: space-around;
   margin-top: 7%;
+  flex-wrap: wrap;
+
 }
 /*****************section_carne ****************/
 .section_carne {
@@ -135,6 +140,8 @@ h1 {
   display: flex;
   justify-content: space-around;
   margin-top: 7%;
+  flex-wrap: wrap;
+
 }
 /*****************section_costillas ****************/
 .section_costillas {
@@ -143,6 +150,8 @@ h1 {
   display: flex;
   justify-content: space-around;
   margin-top: 7%;
+  flex-wrap: wrap;
+
 }
 /*****************section_pollos ****************/
 .section_pollos {
@@ -151,6 +160,8 @@ h1 {
   display: flex;
   justify-content: space-around;
   margin-top: 7%;
+  flex-wrap: wrap;
+
 }
 /*****************section_sandwiches ****************/
 .section_sandwiches {
@@ -159,6 +170,8 @@ h1 {
   display: flex;
   justify-content: space-around;
   margin-top: 7%;
+  flex-wrap: wrap;
+
 }
 /*****************section_harbuguesas ****************/
 .section_harbuguesas {
@@ -167,6 +180,8 @@ h1 {
   display: flex;
   justify-content: space-around;
   margin-top: 7%;
+  flex-wrap: wrap;
+
 }
 
 /*****************FOOTER****************/

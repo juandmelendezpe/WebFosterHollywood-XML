@@ -25,7 +25,7 @@
 			<body>
 				<header>
 					<div class="container_logo">
-						<img src="img/img/logo.png" alt="logo de la empresa" />
+						<img src="img/img/logo.png" alt="logo de la empresa"/>
 					</div>
 					<div class="menu">
 						<ul>
@@ -39,48 +39,39 @@
 							<li><a href="#">HAMBURGUESAS</a></li>
 						</ul>
 					</div>
-					<button class="button-1" type="button" id="btn1">! COMPRA ONLINE ¡</button>
+					<button  type="button" id="btn1">! COMPRA ONLINE ¡</button>
 				</header>
 				<main>
 					<section class="container_banner">
-						
+					<img src="img/img/img1.jpg" alt="banner principal"/>
 					</section>
+					
 					<h1><xsl:value-of select="carta/categoria/@nombre"/></h1>
 					
 					<section class="section_entradas">
-						
 						<xsl:for-each select="carta/categoria">
+						
 							
 							<article class="section_entradas_box">
-								<xsl:value-of select="plato/imagen"/>
+								
+								
+								<img src="https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/bacon-cheese-fries.png?itok=usHB3RqY"/>
 								<span>Name :<xsl:value-of select="plato/nombre"/> </span>
 							</article>
 							
 						</xsl:for-each>
 						
 					</section>
-					<h1>ENTRADAS</h1>
 					
 					<section class="section_mex">
+						<xsl:for-each select="carta/categoria">
+
 						<article class="section_entradas_box">
-							<img
-								src="https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/bacon-cheese-fries.png?itok=usHB3RqY"
-								alt="entradas"
-								/>
-							<span>nombre de entrada1: </span>
+							
+						<span><xsl:value-of select="plato/nombre"/> </span>
 						</article>
-						<article class="section_entradas_box">
-							<img src="#" alt="entradas" />
-							<span>nombre de entrada2: </span>
-						</article>
-						<article class="section_entradas_box">
-							<img src="#" alt="entradas" />
-							<span>nombre de entrada3: </span>
-						</article>
-						<article class="section_entradas_box">
-							<img src="#" alt="entradas" />
-							<span>nombre de entrada4: </span>
-						</article>
+						</xsl:for-each>
+						
 					</section>
 					<h1>ENTRADAS</h1>
 					
@@ -92,18 +83,7 @@
 								/>
 							<span>nombre de entrada1: </span>
 						</article>
-						<article class="section_entradas_box">
-							<img src="#" alt="entradas" />
-							<span>nombre de entrada2: </span>
-						</article>
-						<article class="section_entradas_box">
-							<img src="#" alt="entradas" />
-							<span>nombre de entrada3: </span>
-						</article>
-						<article class="section_entradas_box">
-							<img src="#" alt="entradas" />
-							<span>nombre de entrada4: </span>
-						</article>
+					
 					</section>
 					<h1>ENTRADAS</h1>
 					
