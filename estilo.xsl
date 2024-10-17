@@ -50,49 +50,34 @@
 					
 					<section class="section_entradas">
 						<xsl:for-each select="carta/categoria">
-						
-							
 							<article class="section_entradas_box">
-								
-								
-								<img src="https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/bacon-cheese-fries.png?itok=usHB3RqY"/>
+								<img src="https://fostershollywood.es/sites/default/files/images/product/nachos-san-fernando.png"/>
 								<span>Name :<xsl:value-of select="plato/nombre"/> </span>
 							</article>
-							
 						</xsl:for-each>
-						
 					</section>
-					
 					<section class="section_mex">
 						<xsl:for-each select="carta/categoria">
-
 						<article class="section_entradas_box">
-							
 						<span><xsl:value-of select="plato/nombre"/> </span>
 						</article>
 						</xsl:for-each>
-						
 					</section>
 					<h1>ENTRADAS</h1>
-					
 					<section class="section_ensaladas">
 						<article class="section_entradas_box">
 							<img
 								src="https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/bacon-cheese-fries.png?itok=usHB3RqY"
-								alt="entradas"
-								/>
+								alt="entradas"/>
 							<span>nombre de entrada1: </span>
 						</article>
-					
 					</section>
 					<h1>ENTRADAS</h1>
-					
 					<section class="section_carne">
 						<article class="section_entradas_box">
 							<img
 								src="https://fostershollywood.es/sites/default/files/styles/product_teaser/public/images/product/bacon-cheese-fries.png?itok=usHB3RqY"
-								alt="entradas"
-								/>
+								alt="entradas"/>
 							<span>nombre de entrada1: </span>
 						</article>
 					</section>
